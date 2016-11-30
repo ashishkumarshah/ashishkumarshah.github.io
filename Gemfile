@@ -19,6 +19,7 @@ gem "minima", "~> 2.0"
 gem "rake"
 gem "github-pages", group: :jekyll_plugins
 gem "rdiscount"
+gem "html-proofer"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
